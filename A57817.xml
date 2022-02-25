@@ -1,0 +1,445 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Barbican-cheat detected, or, Injustice arraigned being a brief and sober disquisition of the procedure of the Anabaptists late-erectecd judicature in Barbican, London, the 28th of the moneth called August, 1674 : with some observations upon their pretended account thereof, in their pamphlet term'd, The Quakers appeal answered / by Thomas Rudyard.</title>
+            <author>Rudyard, Thomas, d. 1692.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1674</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 44 KB of XML-encoded text transcribed from 19 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A57817</idno>
+            <idno type="STC">Wing R2177</idno>
+            <idno type="STC">ESTC R24506</idno>
+            <idno type="EEBO-CITATION">08223946</idno>
+            <idno type="OCLC">ocm 08223946</idno>
+            <idno type="VID">41106</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A57817)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 41106)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1238:21)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Barbican-cheat detected, or, Injustice arraigned being a brief and sober disquisition of the procedure of the Anabaptists late-erectecd judicature in Barbican, London, the 28th of the moneth called August, 1674 : with some observations upon their pretended account thereof, in their pamphlet term'd, The Quakers appeal answered / by Thomas Rudyard.</title>
+                  <author>Rudyard, Thomas, d. 1692.</author>
+               </titleStmt>
+               <extent>36 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>Printed in the year 1674.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Hicks, Thomas, 17th cent. --  Quakers appeal answer'd.</term>
+               <term>Anabaptists.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-04</date>
+            <label>Louis Goldberg</label>Sampled and proofread</change>
+         <change>
+            <date>2011-04</date>
+            <label>Louis Goldberg</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:41106:1" rendition="simple:additions"/>
+            <p>THE Barbican-Cheat DETECTED; OR, Injuſtice Arraigned: BEING A Brief and Sober Diſquiſition of the Procedure of the <hi>Anabaptiſts</hi> Late-Erected <hi>Judicature</hi> in <hi>Barbican, London,</hi> the 28th of the Moneth called <hi>Auguſt,</hi> 1674.</p>
+            <p>With ſome Obſervations upon their preten<g ref="char:EOLhyphen"/>ded Account thereof, in their Pamphlet, term'd, <hi>The</hi> Quakers <hi>Appeal Anſwered.</hi>
+            </p>
+            <p>
+               <hi>By</hi> Thomas Rudyard.</p>
+            <q rend="italic">
+               <bibl>
+                  <hi>Prov. 18.17.</hi>
+               </bibl>
+               <p>He that is firſt in his own Cauſe, ſeemeth Juſt; but his Neighbour co<g ref="char:EOLhyphen"/>meth, and ſearcheth him.</p>
+            </q>
+            <p>Printed in the Year 1674.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:41106:2"/>
+            <pb n="3" facs="tcp:41106:3"/>
+            <opener>
+               <salute>Reader,</salute>
+            </opener>
+            <p>HAd not apparent <hi>Deceit</hi> and <hi>Falſ<g ref="char:EOLhyphen"/>hood</hi> maskt themſelves under the Govert of <hi>Acting a Piece of Juſtice,</hi> it had excu'd the Occaſion of reviewing that Day's Act, ſo comically performed upon the Stage of Abuſe, I thus willingly ex<g ref="char:EOLhyphen"/>preſs my ſelf, knowing ſuch Judicious and Unbyaſed there, conclude with me, <hi>The Actors thereof preſented their Auditory with Painted Shews or Scenes of Judgment and Juſtice;</hi> when in Reality there was nothing leſs amongſt them, yea, ſo oppoſite, that Truth was fallen in the Streets, and Equity could not enter.</p>
+            <p>I preſume thee <hi>Reader,</hi> not ignorant of that Noiſe and Stir <hi>Thomas Hicks</hi> and his <hi>Abetters</hi> (by his <hi>Comedian-Books,</hi> which he falſly terms <hi>Dialogues betwixt a Chriſtian and a Quaker</hi>) have of late made (in this interval of pub<g ref="char:EOLhyphen"/>lick
+<pb n="4" facs="tcp:41106:3"/>Connivance or Liberty) to repreſent us and our Principles unworthy of what we en<g ref="char:EOLhyphen"/>joy, or the Reſpect of men, regarding So<g ref="char:EOLhyphen"/>briety and Virtue. His Talent lying in Forgery of Principles and Doctrines, and laying the Brats at our Door, he only has be<g ref="char:EOLhyphen"/>got; which foul Practice of his has been evidently diſcovered in 2 Treatiſes by <hi>W. Penn,</hi> with Demand of Anſwer from his Brethren, <hi>If they would own</hi> T. H. <hi>and his Work, that ſo accordingly we might deal with them.</hi>
+            </p>
+            <p>The People called <hi>Anabaptiſts</hi> having publickly patronized him &amp; his Work, and avowed them in Print, I can accompt of <hi>Tho. Hicks</hi> no leſs then their Agent and Repreſentative, and ſolemnly proteſt againſt him and them as <hi>Confederates,</hi> in that Abuſe of <hi>Forgeries, Lyes, Per<g ref="char:EOLhyphen"/>verſions</hi> and <hi>Slanders,</hi> (juſtly charged, and in Print made out againſt him.)— And ſince they have in ſo publick a manner taken cogniſance of theſe Matters, and co<g ref="char:EOLhyphen"/>lourably determined the ſame, it may not be unſeaſonable for the ſake of <hi>Truth,</hi> and
+<pb n="5" facs="tcp:41106:3"/>detecting <hi>Falſhood,</hi> to make a ſerious Scrutiny into theſe Particulars apart, <hi>viz.</hi>
+            </p>
+            <list>
+               <item>
+                  <hi>1. Their Commiſſion.</hi>
+               </item>
+               <item>
+                  <hi>2. The Calling of their Court, and Notice to Perſons concerned.</hi>
+               </item>
+               <item>
+                  <hi>3. The Capacity of the Judges.</hi>
+               </item>
+               <item>
+                  <hi>4. The Method and Manner of their Procedure.</hi>
+               </item>
+               <item>
+                  <hi>5. Their Decree or Judgment.</hi>
+               </item>
+            </list>
+            <p>Which with ſome brief Obſervations up<g ref="char:EOLhyphen"/>on their pretended Anſwer to the <hi>Appeal,</hi> I ſhall cloſe the following Diſcourſe, and leave the ſame to the ſolid Peruſal &amp; Con<g ref="char:EOLhyphen"/>ſideration of the Candid and Unprejudiced Reader.</p>
+            <closer>
+               <dateline>London, <date>
+                     <hi>26th 7th Month, 1674.</hi>
+                  </date>
+               </dateline>
+               <signed>T. R.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="6" facs="tcp:41106:4"/>
+            <head>THE Barbican-Cheat DETECTED, &amp;c.</head>
+            <div n="1" type="part">
+               <p>
+                  <hi>Firſt,</hi> AS for their <hi>Commiſſion,</hi> they deriv'd from a Book of <hi>William Penn,</hi> tituled, <hi>The Counterfeit Chriſtian Detected,</hi> wherein is a <hi>Poſtſcript</hi> by another Hand, <hi>viz.</hi>
+
+                  <q rend="margQuotes">We expect to hear what the <hi>Baptiſts</hi> in and a<g ref="char:EOLhyphen"/>bout <hi>London</hi> will ay (as being appealed to) concerning their Brother <hi>Tho. Hicks,</hi> his Proceeding in his Three <hi>Dialogues;</hi> And whether they approve thereof, or of ſuch Play Books or Romances in Religion, yea, or nay —</q>
+               </p>
+               <p>Hence would they derive their Autho<g ref="char:EOLhyphen"/>rity, and this take they for a Commiſſion<note n="*" place="margin">
+                     <hi>Anab.</hi> Ap<g ref="char:EOLhyphen"/>peal anſw.</note> but ſurely they underſtand Words better then thus igno<g ref="char:EOLhyphen"/>rantly to miſtake, to term this an Appeal (when it only refers to one.)</p>
+               <pb n="7" facs="tcp:41106:4"/>
+               <p>But I need not wonder at ſuch Slips, ſince he has ſo apt an Hand at Matters of greater Conſequence. The words are (as being appeal'd to) reſpecting Appeal before made to them; and ſo there is in p. 28. &amp; p. 40. of <hi>W. Penn</hi>'s Book, entituled, <hi>The Coun<g ref="char:EOLhyphen"/>terfeit Chriſtian Detected;</hi> which had been but Equal and Honeſt in <hi>T. H.</hi> and his Confederates to have delivered to that Au<g ref="char:EOLhyphen"/>ditory, and the Reader of his Relation.</p>
+               <p>In pag. 28. After <hi>W. Penn</hi> had charged <hi>T. Hicks</hi> with many old and with ſeven new <hi>Forgeries,</hi> and cleared the ſame by plain De<g ref="char:EOLhyphen"/>monſtration, he concludes,
+
+<q rend="margQuotes">With you, the People called <hi>Anabaptiſts,</hi> I leave this Se<g ref="char:EOLhyphen"/>ction; Right us, right your ſelves; right our Profeſſion of ſuch an Unfair Adverſary, and your ſelves of ſo Scandalous an Advo<g ref="char:EOLhyphen"/>cate.</q>
+               </p>
+               <p>In p. 40. <hi>W. Penn,</hi> after he had charg'd him with twenty groſs <hi>Perverſions,</hi> &amp;c. he con<g ref="char:EOLhyphen"/>cludes,
+
+<q rend="margQuotes">Thus have I finiſhed my Obſerva<g ref="char:EOLhyphen"/>tions on his <hi>Peruerſions,</hi> leaving them alſo with the People called <hi>Anabaptiſts,</hi> upon whom I cannot chooſe but frequently call for Juſtice againſt this their unjuſt Member: Concluding my Complaint in this Section in honeſt <hi>J. Huſſe</hi>'s againſt the like Adver<g ref="char:EOLhyphen"/>ſaries on the ſame Occaſion: Some of
+<pb n="8" facs="tcp:41106:5"/>thoſe Propoſitions I did write and publiſh, other ſome mine Enemy did feign, now ad<g ref="char:EOLhyphen"/>ding, then diminiſhing and taking away, now falſly aſcribing &amp; imputing the whole Propoſition unto me.</q>
+               </p>
+               <p>Here's the <hi>Appeal</hi> made to them that the <hi>Poſtſcript</hi> mentions; and here's committed to them the two Sections, containing an Ac<g ref="char:EOLhyphen"/>count of <hi>T. H</hi>'s Forgeries and Perverſions; for theſe calls <hi>W. P.</hi> for Juſtice againſt their Unjuſt Member.</p>
+               <p>But alas! ſo far are they from anſwering his Juſt Demand, that they ſpare to menti<g ref="char:EOLhyphen"/>on his Complaint, as I may hereafter fully demonſtrate in its place, and ſhall deſend to the ſecond Particular, which is:</p>
+            </div>
+            <div n="2" type="part">
+               <head>2. The Calling of their Court, and Notice to Perſons concern'd.</head>
+               <p>It is obſervable that W. P's Books were delivered at their-Meeting-Houſe Doors the 2d of the Moneth called <hi>Auguſt</hi> laſt, which <hi>Thomas Hicks</hi> intimates in his Relation, pag. 3. Epiſtle. Soon after <hi>William Penn</hi>'s Occaſions drew him out of <hi>London,</hi> and upon the 10th of that Moneth <hi>G. Keith</hi> had a Diſpute or Conference with <hi>T. H.</hi> whom <hi>T. H.</hi> had alſo traduced; and then not a word mentioned of a deſigned publick Meeting;
+<pb n="9" facs="tcp:41106:5"/>nor till they might be ſufficiently aſſured of the Abſence of W. P. &amp; G. W. either of them being far Diſtant, and on before-deſigned Journeys.</p>
+               <p>The 19th of that Moneth they leave a Letter with <hi>P. Ford,</hi> directed to W. P. to give him notice of a Meeting the 28th following—The 20th <hi>P. F.</hi> returned Anſwer:</p>
+               <floatingText type="letter" xml:lang="eng">
+                  <body>
+                     <p>Yeſterday I received a Letter from you directed to <hi>W. Penn,</hi> concerning a Meeting to be the 28th inſtant, at which you ſay, <hi>You Expect Him:</hi> This ſerves only to give you Notice, that he was gone into the Eaſt of <hi>England</hi> about Three Weeks ago; and when his Return will be, I know not; neither do I know how to give him Notice hereof: and therefore I do not ſee that he is likely to be there, except you had been pleaſed to have appointed a Time when he was in the City, or ſo near that he might had timely Notice of your Intenti<g ref="char:EOLhyphen"/>ons: If this be deſignedly done, it is not fair; but if not, the Debate muſt be ſuſ<g ref="char:EOLhyphen"/>pended till a time in which the Parties con<g ref="char:EOLhyphen"/>cerned with you, by mutual Conſent, a<g ref="char:EOLhyphen"/>gree upon a Time. This I thought good to
+<pb n="10" facs="tcp:41106:6"/>let you know, and do judge you ought to let others know it, that ſo Vain-Boaſting may be prevented as much as in us lieth, which is all from your Friend,</p>
+                     <closer>
+                        <dateline>London, <date>
+                              <hi>20th of the 6th Mon. 1674.</hi>
+                           </date>
+                        </dateline>
+                        <signed>Philip Ford.</signed>
+                     </closer>
+                  </body>
+               </floatingText>
+               <p>The <hi>Anabaptiſts</hi> ſending the like Letter to <hi>G. Whitchead's</hi> Houſe, in his Abſence alſo, being then far diſtant from <hi>London,</hi> this An<g ref="char:EOLhyphen"/>ſwer was returned by <hi>G. Whitchead</hi>'s Wife.</p>
+               <floatingText type="letter" xml:lang="eng">
+                  <body>
+                     <p>I did preſume to open my Husband's Letter, leſt I might prejudicially keep it: now finding the Conſequence requiring my Husband and <hi>W. Penn,</hi> at a Day and time within all liklihood they are incapable of anſwering, being very remote from this City; and the Truth is in Plainneſs, I know not when or where to ſend to either of them, and ſo did think it beſt to return the Letter, with this plain Information,</p>
+                     <closer>
+                        <signed>That I am thy Friend, <hi>Ann Whitehead.</hi>
+                           <note place="margin">
+                              <gap reason="illegible" resp="#UOM" extent="1 word">
+                                 <desc>〈◊〉</desc>
+                              </gap> T. H's Relation, Epiſt to the Reader.</note>
+                        </signed>
+                     </closer>
+                  </body>
+               </floatingText>
+               <p>
+                  <pb n="11" facs="tcp:41106:6"/>
+And what could not this prevail for a fur<g ref="char:EOLhyphen"/>ther Day? Not a ſmall Suſpenſion of Time? Alas! no; not with them (as appears) that deſigned nothing leſs then their Preſence, and deſired nothing more then their Abſence. (But were they ſo Juſt to their Auditory to read <hi>Philip Ford</hi>'s Letter, that the People might underſtand the Cauſe of their Abſence? No ſuch Matter; that would exceed the Bounds of Juſtice we muſt expect from their Hands) But to do. <hi>VV. Kiffin</hi> Right, he o<g ref="char:EOLhyphen"/>penly mentioned as well the former as latter; but wreſted them with ſuch Artifice to his deſigned Ends, that they ſerved to patch up a nouting Prologue to his mixt Au<g ref="char:EOLhyphen"/>ditory: and by the <hi>Eaſt of</hi> England in <hi>Philip Ford</hi>'s Letter, he repreſented <hi>VV. Penn, as in Travail in the</hi> Eaſt Country <hi>or</hi> Eaſt Indies, <hi>he knew not whether;</hi> the Pleaſantneſs of which Diſcant ſo pleaſed the Confederates, and gratified the airy Sort, that for a Time they filled the whole Houſe with Laughter; but for this publick Abuſe, <hi>VV. K.</hi> has pri<g ref="char:EOLhyphen"/>vately acknowledged his Miſtake to his Friends, and ſo we excuſe him.</p>
+               <p>But as to <hi>VV. P.</hi> and <hi>G. W</hi>'s Abſence, how grandly ſoever it pleaſed, and that I am well aſſured not a little; he repreſented as uſually are <hi>Ru<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>negates, Excommunicates</hi> and <hi>Out<g ref="char:EOLhyphen"/>laws;</hi>
+                  <pb n="12" facs="tcp:41106:7"/>and that becauſe they appeared not upon the peremptory Summons. I muſt de<g ref="char:EOLhyphen"/>clare my Occaſions have ſomewhat experi<g ref="char:EOLhyphen"/>enced me in the Practice of the Courts of Common Law and Equity, and of Courts <hi>Eccleſiaſtical</hi> and <hi>Civil</hi> within this Kingdom; but of all, from the Higheſt to the Loweſt, there is none within the Verge of my Know<g ref="char:EOLhyphen"/>ledge that are ſo peremptory in Summons, and ſo abſolute in Decrees: The <hi>Excommuni<g ref="char:EOLhyphen"/>cate</hi> has forty Dayes to aſſoil himſelf; Per<g ref="char:EOLhyphen"/>ſons not outlawed under two, if not three <hi>Terms:</hi> But we muſt be Adjudged, Con<g ref="char:EOLhyphen"/>demned, Sentence paſt on us as <hi>Runnagates</hi> or <hi>Outlaws</hi> upon eight or nine Dayes Sum<g ref="char:EOLhyphen"/>mons (and that not perſonal neither) be<g ref="char:EOLhyphen"/>yond the Severity of all <hi>Engliſh</hi> Courts what<g ref="char:EOLhyphen"/>ever. And who is ignorant of the frequent and common Practice in all <hi>Engliſh</hi> Courts; yea, as well in the high Courts of <hi>Parlia<g ref="char:EOLhyphen"/>ment,</hi> and <hi>King,</hi> and <hi>Counſel,</hi> as all ſubor<g ref="char:EOLhyphen"/>dinate Courts and Judicatures, <hi>Civil</hi> or <hi>Ec<g ref="char:EOLhyphen"/>cleſiaſtical,</hi> to defer Hearings, and ſuſpend Judgments, till both Parties can be ready, and to give further Day, in caſe either Party by Reaſon of Abſence or Diſtance cannot pro<g ref="char:EOLhyphen"/>bablyattend: But this new Judicature knows or executes no ſuch Fairneſs; but abſolutely denies ſuch common Juſtice, vide to <hi>J. Oſ<g ref="char:EOLhyphen"/>good,
+<pb n="13" facs="tcp:41106:7"/>T. Hicks</hi> Relat. Epiſt. to the Reader. O horrid Abuſe! bluſh and be aſhamed ye Maſters of Inquiſition, and Pattern of Cru<g ref="char:EOLhyphen"/>elty in this our Native Country, that knows no ſuch Practice or Procedure, that you in open Stage have brought an Emblem &amp; Re<g ref="char:EOLhyphen"/>preſentative. So ſhall I deſcend to the third particular under Diſquiſition.</p>
+            </div>
+            <div n="3" type="part">
+               <head>3. The Capacity of the Judges.</head>
+               <p>And truly, if ſuch as they beſpeak them<g ref="char:EOLhyphen"/>ſelves, they are, without Exception, no leſs then infallible in this Caſe: ſay W. K. &amp;c. <hi>Relat. Epiſt. Reader. The firſt time, I underſtood Infallibility was annexed to their</hi> Cathedra; <hi>but how comes this ſtamp of Infal<g ref="char:EOLhyphen"/>libility upon theſe Judges with no leſs Authori<g ref="char:EOLhyphen"/>ty then from the</hi> Quaker<hi>'s Enſample;</hi> if we will credit W. Kiffin's, &amp;c. <hi>Logick, Relat. Epiſt.</hi>
+
+                  <q rend="margQuotes">Reader, <hi>ſayes he,</hi> for <hi>W. Penn</hi> ſayes, <hi>That to which an Appeal is made muſt be capable of giving an Infallible Judgment; and ſo a true Judge:</hi> Conſequently, <hi>ſayes W. K. &amp;c. </hi> we muſt be Infallible Judges in this Caſe.</q>
+
+Muſt his Reader take for granted, that In<g ref="char:EOLhyphen"/>fallibility is a natural Conſequence of Capa<g ref="char:EOLhyphen"/>city: I grant they were capable of doing right; muſt they therefore be Infallible? and have they done that Right? What!
+<pb n="14" facs="tcp:41106:8"/>have you taken ſo much Pains to ſtigmatize the beſt of Men with Error, and the very Spirit of God in his People with Fallibility, and ſtamp Infallibility upon your ſelves? Did it diſguſt you, that <hi>W. Penn</hi> made the Light of Chriſt, or Witneſs of God's Spirit in the Conſcience (that arraigns the Murderer, pur<g ref="char:EOLhyphen"/>ſues the Blood-ſhed, reproves the Unrighte<g ref="char:EOLhyphen"/>ous, and gives impartial Judgment without Reſpect of Perſons) a true &amp; upright Judge, and capable of true Judgment betwixt him and the <hi>Socinian;</hi> and ſhall you ſtrain your Achievements to Infallibility?</p>
+               <p>But why ſhould <hi>W. Kiffin,</hi> &amp;c. ſo unequal<g ref="char:EOLhyphen"/>ly repeat W. P<hi>'s</hi> Words? Can they no more then <hi>T. Hicks,</hi> truly repeat a Sentence with<g ref="char:EOLhyphen"/>out Abuſe? We might have expected better Dealing from their Gravity; but I debt it.</p>
+               <p>Sayes <hi>W. Penn, Spir. of Truth vindic.</hi> p. 78. <hi>That to which he</hi> (viz. the <hi>Socinian</hi>) <hi>makes an Appeal muſt be capable, &amp;c. or elſe he ap<g ref="char:EOLhyphen"/>peals fooliſhly.</hi> This reſpects &amp; refers only to the <hi>Socinian's</hi> Appealing to the Light of God in the Conſcience, and not to Man or any Sort or Sect of Men whatſoever: But <hi>W. Kiffin,</hi> &amp;c. that they might ſit in Judgment with<g ref="char:EOLhyphen"/>out Controle, wreſts that Diſcourſe (which reſpected and referred to that particular Ap<g ref="char:EOLhyphen"/>peal to the Light or Spirit of God (ſo limi<g ref="char:EOLhyphen"/>ted
+<pb n="15" facs="tcp:41106:8"/>by the Appealers) &amp; layes them down in other Words then had W. P. viz. <hi>That to which an Appeal is made, &amp;c. or elſe the Ap<g ref="char:EOLhyphen"/>peal is fooliſh.</hi>—Compare but the Words, and their Artifice is ſeen; weigh their Senſe and thou wilt ſee their Deceit: <hi>VV. Penn</hi> by his refers only to the Appealers, and the Light to which the Appeal is made, reſpects not Men who diſtinct or ſeparate from that to which the <hi>Socinian</hi> appealed, are fallible, nay, not capable of true Judgment: But W K. <hi>&amp;c.</hi> (with A <hi>W. Penn</hi> ſaith) in an abuſive Manner belies his Words, alters his Senſe, wreſts that to Men which was at<g ref="char:EOLhyphen"/>tributed to the Spirit of God, or the Light of God in the Conſcience; and all this Pains to attribute Infallibility to themſelves — Take but the Words as <hi>W. Penn</hi> really writ, without W. K. &amp;c. their metamorphoſing them. — <hi>That to which he makes an Appeal muſt be capable of giving an Infallible Judg<g ref="char:EOLhyphen"/>ment, and ſo a true Judge, or elſe he appeals fooliſhly:</hi> But the Light within is that to which he makes an Appeal, &amp;c. <hi>Conſequently,</hi> ſayes W. K. &amp;c. <hi>we muſt be Infallible Judges in this Caſe.</hi> Was the <hi>Socinian's</hi> Appeal to Men? Or was W. P<hi>'s</hi> Argument or Concluſion for the Judgment of Men? Nothing leſs. Had it been ſo, then thoſe <hi>Anabaptiſts</hi> had half cover'd their Cheat, when now it is plain to the mea<g ref="char:EOLhyphen"/>neſt<gap reason="illegible: missing" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+                  <pb n="16" facs="tcp:41106:9"/>Man of Reaſon: And at this Rate might the <hi>Anabaptiſts</hi> argue, <hi>Is the Light or Spirit of the Almighty God capable of Judgment in the</hi> Quakers <hi>Senſe;</hi> Ergo (<hi>we</hi> Anabaptiſts) <hi>In<g ref="char:EOLhyphen"/>fallible Judges:</hi> And their Conſequence is no leſs abſurd; but it is not to be wondered, that they conteſt ſo highly for Infallibility, when the Credit of all their Procedure pends upon the Reputation of the Judges: And what Share of Integrity, or Meaſure of Im<g ref="char:EOLhyphen"/>partiality theſe pretended <hi>Infallibles</hi> have manifeſted (by their anſwering the Appeal) will in meaſure apear by Inquiry of the Man<g ref="char:EOLhyphen"/>ner and Method of their Procedure, which is the next Particular under Diſquiſition.</p>
+            </div>
+            <div n="4" type="part">
+               <head>4. The Method &amp; Manner of their Procedure.</head>
+               <p>Truly to underſtand their Meaning by their Words, or Intentions by their Expreſſions, other then each are calculated to cheat the Reader, and gull their Auditory, I find not. And how <hi>T. Hicks, W. Kiffin,</hi> &amp;c. have made as well their Writings, publiſhed to the World, as their publick Speeches at <hi>Barbi<g ref="char:EOLhyphen"/>can</hi> to ſerve thoſe Ends of Abuſe, I may un<g ref="char:EOLhyphen"/>der this Head demonſtrate: As introductory thereunto (I obſerve in and for what <hi>W. Penn</hi> appeals for Juſtice; it is particularly to be relieved againſt <hi>T. Hicks</hi>'s Injuſtice for <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+                  <pb n="17" facs="tcp:41106:9"/>
+                  <hi>many Forgeries</hi> and <hi>groſs Perverſions,</hi> par<g ref="char:EOLhyphen"/>ticularly charged, and plainly demonſtrated againſt him in two Diſtinct Sections of the Book, called <hi>The counterfeit Chriſtian dete<g ref="char:EOLhyphen"/>cted.</hi> Vide <hi>pag.</hi> 28. &amp; <hi>pag.</hi> 40.</p>
+               <p n="2">2. I obſerve in <hi>W. Kiffin, H. Knowls,</hi> &amp;c. their Letter to <hi>W. Penn,</hi> dated <hi>Aug.</hi> 15. vid. <hi>Appeal. Anſ. Epiſt.</hi> declare they will hear <hi>T. H.</hi> both in reſpect to thoſe Doctrines and Matters of Fact, which he in his Dia<g ref="char:EOLhyphen"/>logue had laid to the <hi>Quakers</hi> Charge.</p>
+               <p n="3">3. I obſerve in their Letter of the <hi>23d.</hi> to <hi>J. Oſgood,</hi> they declare the Matter is only Matter of Fact, and not of Diſpute: See <hi>Appeal Anſ. Epiſt.</hi>
+               </p>
+               <p n="4">4. I take notice of the Judicatures Exa<g ref="char:EOLhyphen"/>mination; and they go principally upon Do<g ref="char:EOLhyphen"/>ctrinals; ſee from <hi>pag.</hi> 1. to <hi>pag.</hi> 22. and for Matter of Fact but 10. <hi>pag.</hi> and in all, not W. P's Charges, as laid down by him, once read in their Aſſembly.</p>
+               <p>But what muſt we underſtand? will they examine the Forgeries, Perverſions, &amp;c. gi<g ref="char:EOLhyphen"/>ven in Charge? will they enter into Doctri<g ref="char:EOLhyphen"/>nals and Fact, or Fact alone? none ſhall know by their Writing, but by their Acti<g ref="char:EOLhyphen"/>ons;
+<pb n="18" facs="tcp:41106:10"/>'tis manifeſt, they went upon neither fairly, but traduced both unjuſtly.</p>
+               <p>Again, But W. K. &amp;c. in their Letter. to <hi>J. O.</hi> tell us that <hi>T. H.</hi> his Charge was already exhibited in Print againſt him; and to what End? not to be opened or read at the Tryals? Who would ſuppoſe a Charge, Article or Indictment to be exhibited againſt a Malefactor, but to be read againſt him. And what did theſe Infallible Judges (as they term themſelves) read the Charge of Forge<g ref="char:EOLhyphen"/>ries and Perverſions, which W. P had laid down in two Sections of the <hi>Counterfeit Chriſtian detected?</hi> No ſuch Matter. Alas, theſe Judges had Ears for their Brother, and none for Truth; reſolves to acquit him, though to their Infamy.</p>
+               <p>I do demand of W. K. &amp; you his Brethren, if any Court of Judicature in <hi>England</hi> ſhould pretend to try a Malefactor, and determine aforehand <hi>not to hear his Accuſer,</hi> or at Try<g ref="char:EOLhyphen"/>al <hi>not read his Accuſation, and yet acquit him:</hi> would not you brand that Court with Parti<g ref="char:EOLhyphen"/>ality and Injuſtice? I doubt not of your af<g ref="char:EOLhyphen"/>firmative Anſwer in this Caſe.</p>
+               <p>This is clearly our Caſe with the <hi>Anabap<g ref="char:EOLhyphen"/>tiſts; W. Penn</hi> charges <hi>T. H.</hi> with <hi>Forge<g ref="char:EOLhyphen"/>ries, Perverſions,</hi> &amp;c. demonſtrates them
+<pb n="19" facs="tcp:41106:10"/>in Print, as to <hi>Manner</hi> and <hi>Form,</hi> complains of the Injuſtice, and leaves the particular Sections with the <hi>Anabaptiſts.</hi> W. K. &amp;c. call <hi>T. H.</hi> before them, never read the Charge, or required him to anſwer what VV. P. had particularly laid down againſt him in thoſe Sections, and paſs Judgment for his Innocency and our Guilt. If this be not Partiality and Injuſtice, I never knew what it was.</p>
+               <p>But inſtead of reading the Charge againſt him, his Liberty is to give it to himſelf, and then acquit himſelf without Interruption: And truly this was not Caſual neither, or oc<g ref="char:EOLhyphen"/>caſioned by W. P's Abſence; but what they require of him in their Letter, viz. to ſuffer him without Interruption; and I think all Men will take it for granted, that he would charge himſelf no more with one Hand, then he could eaſe himſelf with the other.</p>
+               <p>And he who could countefeit a <hi>Quaker,</hi> and frame ſuch Arguments and Diſcourſe for him, as gratified his Malice and Envy, to anſwer and make him ſpeak as many horrid Untruths, and baſe Abuſes, as his villanous Spirit could invent, doubtleſs, would never article againſt himſelf, or exhibit a Charge beyond his Reach of Acquittal: I do not be<g ref="char:EOLhyphen"/>lieve, that one in ten of Forger, Cheat,
+<pb n="20" facs="tcp:41106:11"/>Thief or Bloodſhed, but having ſuch Tems of Tryal, could acquit themſelves how guilty ſoever: But for <hi>T. H.</hi> I muſt ſay, Our <hi>Engliſh</hi> Right is maintained by this Maxime, <hi>Nemo tenetur prodere ſeipjum,</hi> No Man is bound to be his own Accuſer: And for what <hi>T. H</hi> has. done to clear himſelf, I believe it is no more then the greateſt Malefactors would deſire in the like Caſe, had they ſuch Brethren for Judges: But how equal ſuch Procedure is on the Judges Parts, who ſuffers ſuch unju<g ref="char:EOLhyphen"/>ſtice: A weak Capacity is able to give a Judgment.</p>
+               <p>I doubt not, but W. K. &amp;c. in the Eye of the Judicious and unbiaſſed (notwith<g ref="char:EOLhyphen"/>ſtanding their high claim to Infallibility) will appear to be one and Confederate in the Lyes, Slanders, Forgeries and Perverſions of <hi>T. Hicks,</hi> and equally chargeable with them. Of which I may now be a little particular, &amp; from which he has not acquitted himſelf, nay, many of them not once mentioned in their pretended Anſwer to the Appeal.</p>
+               <p n="1">1. In the two Sections of <hi>W. Penn</hi>'s Book, titled the <hi>Counterfeit Chriſtian dete<g ref="char:EOLhyphen"/>cted,</hi> that charges and proves <hi>T. Hicks</hi> guil<g ref="char:EOLhyphen"/>ty of many groſs Forgeries and Perverſions, particularly therein expreſſed, as well to Matter as Manner, from <hi>pag.</hi> 6 to <hi>pag.</hi> 40.
+<pb n="21" facs="tcp:41106:11"/>in the firſt of theſe, viz. that of <hi>Forge<g ref="char:EOLhyphen"/>ries,</hi> no leſs then eight, and of <hi>Perver<g ref="char:EOLhyphen"/>ſion</hi> in the ſecond Section no leſs then 14. wholely omitted in their late Relation, although theſe are the Abuſes W. P. parti<g ref="char:EOLhyphen"/>cularly calls to the <hi>Anabaptiſts</hi> for Redreſs; <hi>vide</hi> p. 28. &amp;. 40.</p>
+               <p n="2">2. The following Section proving <hi>T. H.</hi> guilty of Lyes and Slanders; he omits no leſs then eleaven Particulars; and the next Section of <hi>T. Hicks</hi> his <hi>Contradictions,</hi> who<g ref="char:EOLhyphen"/>ly paſſed over.</p>
+               <p>And of thoſe few Particulars he mentio<g ref="char:EOLhyphen"/>ned in the <hi>Barbican-Meeting,</hi> for the moſt part ſo miſerably perverted, mangled and abuſed, as that they appear in Shapes, Forms &amp; Dreſſes, far different from what they were laid down and explained in our Friends Books: Neither has he been leſs treacherous in his Anſwers thereto, producing Authorities or Citations from our Books, with Senten<g ref="char:EOLhyphen"/>ces mangled, Words moſt material wholy omitted, Parts of Sentences cut off, and that which is more abuſive, hath in <hi>pag.</hi> 24, 27. brought Authorities from an <hi>Apoſtate's</hi> Pamphlet called, <hi>The Spirit of the Hat,</hi> here<g ref="char:EOLhyphen"/>tofore printed or promoted by their own Party: In this Manner could he deal with us, and his Judges wittingly or ignorantly coun<g ref="char:EOLhyphen"/>tenancing
+<pb n="22" facs="tcp:41106:12"/>the ſame; vide <hi>Quak. App. Anſw pag.</hi> 32. Although W. K. &amp;c. in their Epiſtle, tell the World, <hi>That it was the Books of the chief Leaders among the</hi> Quakers <hi>were produced for</hi> T. H<hi>'s Diſcharge.</hi> Thus far have I been willing to obſerve ingeneral, and am ready to vindicate the Particulars thereof, and might now have inſtanced, but that the Books already in Print will largely manifeſt the ſame, to which I refer the Reader: <hi>Vid. Count. Chr. detected.</hi> from <hi>p.</hi> 6. to <hi>p.</hi> 54</p>
+            </div>
+            <div n="5" type="part">
+               <head>5. Their Decree or Judgment.</head>
+               <p>To find any thing in the pretended <hi>An<g ref="char:EOLhyphen"/>ſwer</hi> to the <hi>Appeal</hi> or Relation thereof, that beſpeaks it ſelf a Judgment upon the whole, will be beyond the Skill of any of thoſe Judges themſelves: For, their Relation is ſuch a Piece of Mixture of dark Abuſe, Inſinuations and <hi>Non conſtats,</hi> as if it were; and I doubt not but it was forged and calcu<g ref="char:EOLhyphen"/>lated for a traducing of Truth and covering of Deceit, which comparing in ſome of ma<g ref="char:EOLhyphen"/>ny Particulars with their Act at <hi>Barbican,</hi> will caſily demonſtrate.</p>
+               <p>But to their <hi>Judgment;</hi> Our Charge a<g ref="char:EOLhyphen"/>gainſt their Brother is for many Forgeries, Lyes and Perverſions, particlarly charged and proved againſt him in two Books of
+<pb n="23" facs="tcp:41106:12"/>W. P. entituled, <hi>Reaſon againſt Railing,</hi> and, <hi>The Counterfcit Chriſtian Detected;</hi> which, if not relieved againſt, we ſhould in<g ref="char:EOLhyphen"/>terpret as the Act of the whole <hi>Baptiſts, &amp;c.</hi> vide <hi>Appeal Anſ. Epiſt.</hi> So it was (as they themſelves ſay) their Buſineſs to examine whether <hi>T. H.</hi> was guity, <hi>App. Anſ.</hi> p. 1. viz. <hi>VVhether he has been guilty or not guilty of Lyes, Forgeries and Perverſions, in Man<g ref="char:EOLhyphen"/>ner and Form as</hi> W. Penn <hi>charged and de<g ref="char:EOLhyphen"/>monſtrated againſt him?</hi> But have they given ſuch a Judgment? No ſuch Matter; they uſe not to be ſo plain dealing with the people, nor have we ſuch Meaſure from their Hands, although they inſinuate that was their Buſineſs, as pag. 1. <hi>App. Anſ.</hi> But inſtead thereof, in a crooked and oblique ſort, they tell their Reader, <hi>That</hi> T. H. <hi>had charged us with ſeveral Opinions, and produced our Books; upon reading of which they found them to agree with what he had laid to our Charge, which the following Narrative</hi> (ſay they) <hi>will give a more full Account of: So that hitherto</hi> (ſay they) <hi>we ſee no Cauſe of juſt Blame to be laid unto</hi> Tho. Hicks. And what does his Relation produce touching our Doctrine, or his Perverſions, Forgeries and Slanders not a Sixth thereof mentioned or touched, which, had our Charge been there producèd, would
+<pb n="24" facs="tcp:41106:13"/>have clearly evidenced to the Shame of their Brother and Confuſion of that Judicature? And he who will take the Pains to read thoſe Books and compare <hi>Thomas Hicks</hi> his Charge, with his pretended Compurgation may have as large an luſtance, and as clear a Proſpect of as manifeſt a Cheat under the Covert and Mask of Juſtice and Religion, as our latter Age can produce. For as to the particular Points laid down in has Relation, they are but a Repetition of ſome few of his former Abuſes, which are now repeated without our Anſwers And our Charges a<g ref="char:EOLhyphen"/>gainſt him of Perverſions, Forgeries, &amp;c. wholely omitted.</p>
+               <p>The Relation allows W. P. to anſwer ſuch or ſuch a Particular is a Lye, or Forgery, or Slander; but to tell him how, he denyes him Liberty: As if a Proſecutor of a Malefactor ſhould be only licenſed to acquaint a Court, That the Man was a Thief, Murderer or Burglar; but muſt not reveal his Fellony, Murder or Burglary; certainly this would be but a diſſicult Way of diſcovering Of<g ref="char:EOLhyphen"/>fences, to puniſh Offenders.</p>
+               <p>But that this has been the Way, Method and Practice of <hi>VVilliam Kiffin, Han. Knowles, &amp;c.</hi> with their Brother <hi>Tho. Hicks</hi>
+                  <pb n="25" facs="tcp:41106:13"/>not only their Procedure at their Judicature in <hi>Barbican,</hi> but the pretended Relation thereof doth fully demonſtrate.</p>
+            </div>
+            <div type="observations">
+               <p>So I ſhall deſcend to examine the Conſi<g ref="char:EOLhyphen"/>ſtency of that Relation with it ſelf, with Truth, and their Carriage at <hi>Barbican.</hi>
+               </p>
+               <div n="1" type="observation">
+                  <head>Obſerv. 1. </head>
+                  <p>To Countenance or Colour their Pretence for deſire of Juſtice, they give us a Text of Scripture out of <hi>Deu<g ref="char:EOLhyphen"/>teronomy</hi> 19.17, 18, 19, &amp;c. <hi>If a Falſe VVit<g ref="char:EOLhyphen"/>neſs riſe up againſt any man, to teſtifie againſt him that which is VVrong; then both the men between wh<gap reason="illegible" resp="#UOM" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>n the Controverſie is, ſhall ſtand up before the Lord, before the Prieſts and the Judges, which ſhall be in thoſe dayes; and the Judges ſhall make diligent Inquiſition; and behold, if the VVitneſs be a Falſe VVit<g ref="char:EOLhyphen"/>neſs, then ſhall ye do unto him as he had thought to have done to his Brother, ſo ſhall ye put away the Evil from you.</hi>
+                  </p>
+                  <p>Compare this juſt and equal Law with the <hi>Anabaptiſts</hi> Judiciary; That when a Contro<g ref="char:EOLhyphen"/>verſie was betwixt two (the Matters and Charge of both Parties exhibited in Print) they, in the Abſence of one Party, without due notice (according to common <hi>Engliſh</hi> Right) hear one Party only, the other Party not heard; and then I leave to the Judgment of
+<pb n="26" facs="tcp:41106:14"/>the Unprejudiced, whether this ancient juſt Law arraigns not their unjuſt Practice and partial Procedure.</p>
+                  <p>I cannot but take notice of their willing Omiſſion of that part of the 18th Verſe, which no leſs ſuits the preſent Occaſion, though ſomewhat more diſtinctly re<g ref="char:EOLhyphen"/>flecteth on <hi>T. H.</hi> his Practice againſt us — The words are, <hi>And behold, if the Witneſs be a Falſe Witneſs, and hath teſtified falſly againſt his Brother, then, &amp;c.</hi> That he has ſo teſtified, I doubt not but that his Con<g ref="char:EOLhyphen"/>ſcience, as well as his Books in Print, are a clear Witneſs (and if he Repent not) he'l certainly have the Reward thereof: For the Lord is a jealous God; and the Lying Tongue, and the Heart that deviſeth Miſ<g ref="char:EOLhyphen"/>chief, he hateth.</p>
+               </div>
+               <div n="2" type="observation">
+                  <head>Obſerv. 2. </head>
+                  <p>In the Title-Page of the <hi>Q. Appeal Anſwered,</hi> mentioning the <hi>Barbican</hi>-Meeting (ſay they) <hi>Wherein the Allegati<g ref="char:EOLhyphen"/>ons of</hi> William Penn <hi>in two Books lately pub<g ref="char:EOLhyphen"/>liſhed by him againſt</hi> Thomas Hicks, <hi>were Anſwered and Diſproved.</hi>
+                  </p>
+                  <p>This may ſerve one ſort of Readers to believe all W. P's Allegations and Charges againſt. <hi>T. H.</hi> were anſwered and diſproved; others, that part, a great or ſmall, but might
+<pb n="27" facs="tcp:41106:14"/>gull moſt into a Perſwaſion, That W. P's Allegations or Charges againſt T. H. were at leaſt read before diſproved, when they were neither truly read nor anſwered, but only ſome miſerably mangled by a Treacherous Hand, and ſo miſrepreſented, and the grea<g ref="char:EOLhyphen"/>ter Number and moſt conſiderable not once mentioned or touched.</p>
+               </div>
+               <div n="3" type="observation">
+                  <head>Obſerv. 3. </head>
+                  <p>
+                     <hi>Tho Hicks</hi> beſtows a <hi>Poſt<g ref="char:EOLhyphen"/>ſcript,</hi> as an Addition to his former Abuſe, wherein he attempts to wipe off ſome Parti<g ref="char:EOLhyphen"/>culars charged upon him, and would co<g ref="char:EOLhyphen"/>lourably excuſe the Matters. The firſt is for his Abuſe in a general Charge againſt us, <hi>That we make uſe of the Scriptures only to Silence them that plead for it as their Rule.</hi> And for this (general) Charge (he pretends) he has inſtanced one particular Perſon, by whom words of ſuch an im<g ref="char:EOLhyphen"/>port were ſpoken: How ſuitable his Plaiſter is to his Sore, I leave that to thoſe who will read the Books in Print, 'twere too tedious here to recite. My In<g ref="char:EOLhyphen"/>tent is but to ſhew his genius, that charges us with Baſeneſs general, pretends to prove it by a Particular, and that not by any direct words, but words of ſuch an Import. I ap<g ref="char:EOLhyphen"/>peal
+<pb n="28" facs="tcp:41106:15"/>to the Judicious, if this be candid Deal<g ref="char:EOLhyphen"/>ing. At this rate of Proof, and ſome rebate too, 'twere eaſie to prove the <hi>Anahaptiſts</hi> in general the moſt Cruel and Treacherous ſort that have appeared in the latter Ages of the World.</p>
+               </div>
+               <div n="4" type="observation">
+                  <head>Obſerv. 4. </head>
+                  <p>Its of <hi>N. Lucas</hi>'s relating to ſome words, which <hi>T. H.</hi> variouſly charges him withal.</p>
+                  <p>That <hi>T. H.</hi> his Charge was as falſe as malicious, I doubt not; but for <hi>T. Hicks</hi> his words in the Cloſe of his Paragraph — (I do aſſure thee, that no ſuch Matter was re<g ref="char:EOLhyphen"/>ferred to him) had he atteſted this or ſuch like in a Court of Juſtice, he had ſcarce excu<g ref="char:EOLhyphen"/>ſed a Commitment; for he who affirms a Ne<g ref="char:EOLhyphen"/>gative of Perſons and Things acted out of his Preſence ſhews his Confidence but incurr'd Perjury, or at leaſt the Demerit of a Falſe Witneſs, for not ſpeaking the Truth of his Knowledge.</p>
+               </div>
+               <div n="5" type="observation">
+                  <head>Obſerv. 5. </head>
+                  <p>The next Abuſe of us <hi>T. H.</hi> would excuſe himſelf of, is this, viz. <hi>The Tendency</hi> (ſayes he) <hi>of all the</hi> Quakers <hi>rea<g ref="char:EOLhyphen"/>ſoning about inſtituted Religion, is to debauch Mankind, and to teach men to live in Rebel<g ref="char:EOLhyphen"/>lion againſt God.</hi> For this he produces <hi>W.
+<pb n="29" facs="tcp:41106:15"/>Penn</hi> (as he ſayes) for his Compurgator. The Paragraph is large, ſo I repeat it not; its Subſtance is to deny the U<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e of <hi>Water-Dip<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ing,</hi> or <hi>Babe-Baptiſm,</hi> and their <hi>Bread</hi> and <hi>Wine</hi> (term'd un cripturally <hi>Ordinances of Chriſt</hi>) this <hi>T. H.</hi> ſuppoſes a Proof: But certain I am, that its eaſie to prove, that the enforcing of theſe Outward Ordinances (as he terms them) and the various Opini<g ref="char:EOLhyphen"/>ons thereof, each Party pretending no leſs Authority then the holy Scriptures for his Perſwaſion, has Occaſioned by the <hi>Papiſts</hi> and <hi>Anabaptiſts</hi> in <hi>Germany</hi> and elſe-where more Maſſacries, Rebellions, Murders and Acts of Cruelty, then all other Articles or Opinions in Doctrine and Practice whatſo<g ref="char:EOLhyphen"/>ever. So to the Witneſs of God in the Conſcientious Reader do I commit this for Judgment betwixt us and our ábuſive Adver<g ref="char:EOLhyphen"/>ſary, to judge whether he has not rather ad<g ref="char:EOLhyphen"/>ded to his Abuſe then excuſed it.</p>
+               </div>
+               <div n="6" type="observation">
+                  <head>Obſerv. 6. </head>
+                  <p>I take notice of his repreſent<g ref="char:EOLhyphen"/>ing an Appeal made by ſome (profeſſed <hi>So<g ref="char:EOLhyphen"/>cinians,</hi> or in their Behalf) and the Anſwer in Print, his Diſcant thereon, complaining, <hi>That our Friends, inſtead of hearing the Perſons grieved, &amp;c. conſtitute the Perſon offending to determine &amp; give Sentence in his
+<pb n="30" facs="tcp:41106:16"/>own Caſe: Such a Procedure as this:</hi> (ayes he) <hi>I believe is not to be inſtanced, the</hi> Qua<g ref="char:EOLhyphen"/>ker <hi>excepted, among any ſort of Men,</hi> either Chriſtian <hi>or</hi> Heathen.</p>
+                  <p>
+                     <hi>Anſw.</hi> I anſwer his Complaint from his own Hand.</p>
+                  <p>
+                     <hi>Firſt,</hi> As for their conſtituting W. P. to Anſwer the Appeal, inſtead of Hearing the Appealers: He tells us in the ſame page, the Anſwer of our Friends was, <hi>That</hi> Wil<g ref="char:EOLhyphen"/>liam Penn <hi>had anſwered it:</hi> How then could they conſtitute him upon the Appeal (as <hi>Tho. Hicks</hi> falſly inſinuates) to anſwer when it was anſwer'd before the pretended Appeal made.</p>
+                  <p>
+                     <hi>2dly,</hi> As to the Complaint of our not Hearing the Perſons grieved, and ſcornfully treating them, I anſwer; We ſcornfully treat no one; but they coming to advocate for a Nameleſs <hi>Socinian-Pamphlet,</hi> we thought it but reaſonable to enquire the Au<g ref="char:EOLhyphen"/>thor of the Abuſe, who, <hi>Jeſuit</hi>-like, had un<g ref="char:EOLhyphen"/>der Coverts and Diſguiſe attempted to aſ<g ref="char:EOLhyphen"/>ſaſſinate the Reputation of our Religion and Perſons; ſuch Maſcaradoes in Religious Matters we did and do diſdain, and judged their Miſſaries unworthy reception, and gave the Anſwer, as <hi>T. H.</hi> recites, as their due Demerit.</p>
+                  <pb n="31" facs="tcp:41106:16"/>
+                  <p>And <hi>3dly,</hi> For paſſing Sentence without Hearing the Perſon complained, not to be inſtanced, as he ſayes, among any ſort of men, either <hi>Chriſtian</hi> or <hi>Heathen</hi> (us ex<g ref="char:EOLhyphen"/>cepted) I anſwer, <hi>T. Hicks</hi> in his very next following words appollogizing (for the <hi>Bar<g ref="char:EOLhyphen"/>bican</hi>-Sentence) ſayes he, <hi>It will be requiſite</hi> (<hi>and I preſume</hi> W. Penn <hi>hath not Reaſon to be offended, it being his own Method</hi>) <hi>for this once, that a Fool be anſwered according to his Folly.</hi> Well, what would this man have? Why ſo angry at us for doing that for which he juſtifies his own Party? Nay, I am ſure he has parralell'd our Caſe with Advantage, and that upon his own ſhewing; In ſhort, he railes, he abuſes, he contradicts, he excuſes; <hi>Not a Caſe</hi> (ſays T. H.) <hi>to be inſtanced;</hi> and preſently he gives us one himſelf: which truly puts me in mind of a plain <hi>Engliſh</hi> Pro<g ref="char:EOLhyphen"/>verb, very ſuitable for his learning, viz. <hi>A Lyar had need of a Good Memory.</hi>
+                  </p>
+                  <p>
+                     <hi>Obſ.</hi> 7. And to verifie this, take the laſt Paſſage in his <hi>Poſtſcript</hi> upon his Diſcant of W. P. telling them,
+
+<q rend="margQuotes">that their Appeal did not intend ſuch Power of Judgment in the <hi>Baptiſts,</hi> that they ſhould try whether <hi>Tho. Hicks</hi> was guilty, and to ſtand by their Judgment right or wrong;</q>
+
+upon this <hi>T.
+<pb n="32" facs="tcp:41106:17"/>Hicks</hi> runs his Ordinary Courſe of Miſtake and Abuſe, as if we would judge a Man with<g ref="char:EOLhyphen"/>out hearing, and paſs a Sentence without Examination, and ſo deſcends to his <hi>Leta<g ref="char:EOLhyphen"/>ny</hi> (ſaying) <hi>From ſuch Government and Governour Good Lord deliver me.</hi> Alas! he had wittingly or willingly forgot the End of the Appeal; if he return but to his Judges Epiſtle to their Reader, in their dark Repre<g ref="char:EOLhyphen"/>ſentatives thereof, he will find our End of Appeal was to know, if they would own him and his Work, that according we might deal with him; and to manifeſt the Nature and Intent of the Appeal againſt <hi>T. H.</hi> ſee in <hi>pag.</hi> 22. in the Section of <hi>Forgeries</hi> charged on <hi>T. H.</hi> ſayes <hi>W. Penn,</hi>
+
+                     <q rend="margQuotes">And God will require this Wickedneſs at the Churches Hand to which he relates, if they indulge or connive at it: See more <hi>pag.</hi> 33, &amp; 34.</q>
+
+Does any believe it reaſonable we ſhould make our Enemies abſolute Judges, or ac<g ref="char:EOLhyphen"/>cording to that commen <hi>Angliciſm, Ask a Man whether his Brother he a Thief, and ſubmit to his Opinion?</hi> The Matter in Queſti<g ref="char:EOLhyphen"/>on was, whether they would own him and his Work, that we might deal with them ſepa<g ref="char:EOLhyphen"/>rate, or as Confederates in Abuſe. And he that would ſtrain the Appeal further, may at that rate make the unconverted <hi>Gentiles</hi>
+                     <pb n="33" facs="tcp:41106:17"/>Judges over <hi>Peter</hi> and <hi>John,</hi> who appealed to them; the <hi>Phariſees</hi> over Chriſt in the Parable of the Husbandman; and the Men of <hi>Iſrael</hi> over the Lord God Almighty, who were called to Judge betwixt him and his Vine: They are Judges to whom we call for Juſtice and Judgment, which, if denyed, or not executed, we appeal from them, and teſtifie againſt them and their Judgment; ſo this I affirm is Reaſonable, Equal and Pra<g ref="char:EOLhyphen"/>cticable, as well in Religious as Civil Mat<g ref="char:EOLhyphen"/>ters, as well in Courts Eccleſiaſtical as Civil.; ſo we with W. P. deny their Judgment.</p>
+                  <p>Concluding with the Prophet's words, <hi>He looked for Judgment, but behold Oppreſſi<g ref="char:EOLhyphen"/>on; for Righteouſneſs, but behold a Cry,</hi> Iſa. 5.7.</p>
+               </div>
+               <div n="7" type="observation">
+                  <head>Obſerv. 7. </head>
+                  <p>I obſerve <hi>T. Hicks</hi> takes no ſmall Pains in his <hi>Poſtſcript</hi> to preſent his Reader with his Willingneſs of a publick Meeting, and Promiſe of regular Diſpute, if we will believe the Rules he preſcribeth, ſhall be ſo to him: How fair a Diſputant, and how capable he is for that purpoſe, Time will experience hereafter.</p>
+                  <p>Surely <hi>T. H.</hi> hadſt thou either regard to Honeſty or any Meaſure of Truth amongſt Men, thou'lſt not have dared ſo to miſrepre<g ref="char:EOLhyphen"/>ſent
+<pb n="34" facs="tcp:41106:18"/>
+                     <hi>G. W</hi>'s Dealing with thee about a pub<g ref="char:EOLhyphen"/>lick Meeting: Certainly thou mayſt re<g ref="char:EOLhyphen"/>member <hi>G. W.</hi> did firſt charge thee for Groſs Errors, Self Contradictions and Forgeries, and required an Open Meeting to make it good; Didſt thou then directly accept of it? Thou knoweſt to the contrary; but in<g ref="char:EOLhyphen"/>ſtead thereof giveſt thy Six Particulars to thwart his Charge: Howbeit, G. W. did ſufficiently condeſcend and earneſtly endea<g ref="char:EOLhyphen"/>voured for a publick Meeting with thee, to make good his Charg againſt thee; which thy perverſe Delatory Letters (to evade his Charge) prevented as by the Letters then paſt betwixt you may be made evident to any unbyaſſed Mind and Underſtanding.</p>
+                  <p>Anſwerable unto this Account was the Carriage of <hi>William Kiffin</hi> and his Brethren at <hi>Barbican;</hi> what Pains in our Abſence did they take to repreſent us, as Fugatives, as Runnagates, as Perſons not daring to meet them, as Perſons with whom they had uſed their utmoſt Endeavour and Capacity to meet publickly, and alwayes by us denyed.</p>
+                  <p>Thus did they inſult and romance behind our Backs, when at the ſame time (as I have juſt Cauſe to believe) they deſired nothing leſs: Nay farther, ſuch various Reports, ſuch artificial Repreſentations, ſuch abuſive Con<g ref="char:EOLhyphen"/>ſtructions,
+<pb n="35" facs="tcp:41106:18"/>have they and their Confederates filled the Minds of the Unſteady People, as if to Miſrepreſent, to Belye and Slander us were ſo far from Injuſtice, that 'twere their Duty, yea, meritorious to be found (againſt us) in ſuch immoral Practices.</p>
+                  <p>I grant, by Contending alone they have got the Goal (a Boy of Seven can do the like) at which Achievement they do not a little Rejoyce and Inſult: and as <hi>T. Hicks</hi> made a <hi>Quaker</hi> of his own, and baited him for being ſuch, theſe deſign'd a Meeting for themſelves, and quarrel becauſe they ac<g ref="char:EOLhyphen"/>compliſht it.</p>
+                  <p>Miſtake me not; I intend not to in<g ref="char:EOLhyphen"/>volve all thoſe who are under the denomi<g ref="char:EOLhyphen"/>nation of <hi>Anabaptiſts</hi> as <hi>Actors</hi> and <hi>Ac<g ref="char:EOLhyphen"/>ceſſaries</hi> in this late Abuſe; But
+<list>
+                        <item>
+                           <hi>Tho. Hicks,</hi>
+                        </item>
+                        <item>
+                           <hi>William Kiffin,</hi>
+                        </item>
+                        <item>
+                           <hi>Han. Knowles,</hi>
+                        </item>
+                        <item>
+                           <hi>Tho. Paul,</hi>
+                        </item>
+                        <item>
+                           <hi>John Norcott,</hi>
+                        </item>
+                        <item>
+                           <hi>Robert Snelling,</hi>
+                        </item>
+                        <item>
+                           <hi>Jonathan Jenings,</hi>
+                        </item>
+                        <item>
+                           <hi>Joſeph Mortan,</hi>
+                        </item>
+                        <item>
+                           <hi>John Hunter,</hi>
+                        </item>
+                        <item>
+                           <hi>William Dix,</hi>
+                        </item>
+                        <item>
+                           <hi>Edw. Noble,</hi>
+                        </item>
+                        <item>
+                           <hi>Joh. Singleton</hi> Dr.</item>
+                        <item>
+                           <hi>Daniel Dyke,</hi>
+                        </item>
+                        <item>
+                           <hi>John Goſnell,</hi>
+                        </item>
+                        <item>
+                           <hi>Hen. Forty,</hi>
+                        </item>
+                        <item>
+                           <hi>Tho. Wilcocks,</hi>
+                        </item>
+                        <item>
+                           <hi>Maurice King,</hi>
+                        </item>
+                        <item>
+                           <hi>Tho. Plaint,</hi>
+                        </item>
+                        <item>
+                           <hi>Owen Davies,</hi>
+                        </item>
+                        <item>
+                           <hi>John Snelling,</hi>
+                        </item>
+                        <item>
+                           <hi>John Vernon,</hi>
+                        </item>
+                        <item>
+                           <hi>Ro. Maton,</hi>
+                        </item>
+                        <item>
+                           <hi>James Baron.</hi>
+                        </item>
+                     </list> Judges in the late Judicature.
+<pb n="36" facs="tcp:41106:19" rendition="simple:additions"/>and their actual Abettors and Confederates be they, <hi>Presbyter, Independant, Socinian, &amp;c.</hi>
+                  </p>
+                  <p>Neither intend I this to obſtruct any o<g ref="char:EOLhyphen"/>ther, who may further ſcrutinize their Work and late abuſive <hi>Pamphlet;</hi> only thus much I judged my Duty, as a preſent Reproof to their late Actions of Abuſe and Falſeneſs.</p>
+               </div>
+            </div>
+            <closer>
+               <signed>And this from a Real Lover of Truth, and Hater of Falſhood, Thomas Rudyard.</signed>
+            </closer>
+            <trailer>THE END.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
